@@ -23,5 +23,6 @@ This problem is HARD. I wasn't able to pull signal out of this. I suspect that i
 
 It certainly heated up my feature engineering skills!
 
+![just hist](just_hist.png)
 ![hist of residuals and recursive feature elimination](hist_resid_and_rfe.png)
 
