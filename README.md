@@ -1,6 +1,14 @@
 # time_series
 
-This was a suggested takehome challenge. 
+This was a suggested takehome challenge from a company I interviewed with in May 2018
+
+Given time series data (price, and a whole bunch of masked features)for:
+
+T-2day, T-1day, T-0m - T-120m
+
+Predict 
+
+T-121m - T180m, T+1day, T+2day
 
 Skills that are highlighted:
 - feature engineering
